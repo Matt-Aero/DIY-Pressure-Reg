@@ -1,7 +1,12 @@
 # DIY Pressure Regulator
 An open-source, 3D printed pressure regulating device for use with air and inert gas.
 
-A force balance is created between two springs, upstream pressure, and downstream pressure to provide regulating action. The device seals itself off using O-rings when the desired outlet pressure is reached. Outlet pressure is controlled using an adjustable loading spring.
+A force balance is created between two springs, upstream pressure, and downstream pressure to provide regulating action. The device seals itself off using O-rings when the desired outlet pressure is reached. Outlet pressure is controlled using an adjustable loading spring.  
+
+This project is a work in progress and it is not recommended that you build one at this time. Some additional testing is planned to see how the regulator responds at different flow rates and to confirm it can be operated safely and reliably. However, please feel free to check out the files below and reach out with any comments.
+
+Thanks,  
+Matt
 
 ## CAD
 Regulator Assembly -  https://a360.co/3TrDwYz
