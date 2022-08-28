@@ -56,5 +56,5 @@ This project is licensed under Creative Commons Attribution 4.0 (hardware/mechan
 
 ## Quick Notes
 - Max input pressure to regulator is 150psi  (working to get this bumped up for future iterations)
-- Pressurized devices, including this regulator, are very dangerous. Never stand within 100ft while it is pressurized above 14.7 psi    
+- Pressurized devices, including this regulator, are very dangerous. Never stand within 100ft while it is pressurized above 14.7 psi. Use at your own risk.   
   
