@@ -33,6 +33,10 @@ Tube end cap, yor-lok	 1	https://www.mcmaster.com/5182k634/
 1/4 NPT Tap 1	https://www.mcmaster.com/2525A113/	  
 1"-8 tap	1	https://www.mcmaster.com/26035A166/	  
 
+## Design Files
+https://drive.google.com/drive/folders/102BvL-IFLi49Om7X5UXDgNnixsjbldE4?usp=sharing  
+Google drive folder with sizing spreadsheets used to design the regulator, test data, and general information.
+
 ## License
 This project is licensed under Creative Commons Attribution 4.0 (hardware/mechanical) (see [Creative Commons](https://creativecommons.org/licenses/by/4.0/)).
 
