@@ -34,7 +34,6 @@ Tube end cap, yor-lok	 1	https://www.mcmaster.com/5182k634/
 1"-8 tap	1	https://www.mcmaster.com/26035A166/	  
 
 # License
-
 This project is licensed under Creative Commons Attribution 4.0 (hardware/mechanical) (see [Creative Commons](https://creativecommons.org/licenses/by/4.0/)).
 
     Copyright 2022 Matthew Stevens
@@ -50,3 +49,7 @@ This project is licensed under Creative Commons Attribution 4.0 (hardware/mechan
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+# Quick Notes
+- Max input pressure to regulator is 150psi  (working to get this bumped up for future iterations)
+- Pressurized devices, including this regulator, are very dangerous. Never stand within 100ft while it is pressurized above 14.7 psi    
