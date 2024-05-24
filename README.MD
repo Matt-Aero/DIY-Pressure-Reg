@@ -1,7 +1,7 @@
 ## Testing branch
 
 # DIY Pressure Regulator
-An open-source, 3D printed pressure regulating device for use with air and inert gas.
+An open-source, 3D printed pressure regulating device for use with air and inert gas [Youtube Video](https://www.youtube.com/watch?v=TM-as_OFfkg).
 
 ![alt text](https://github.com/Matt-Aero/DIY-Pressure-Reg/blob/main/regulatorphoto.png)
 
